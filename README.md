@@ -16,7 +16,7 @@ QuickConnect is a platform designed to connect clients with professionals instan
 - **Frontend**: React Native, Expo
 - **Database**: PostgreSQL (or SQLite for development)
 - **Payment Gateway**: M-Pesa Daraja API
-- **Deployment**: (Your deployment platform here, e.g., Heroku, AWS, etc.)
+- **Deployment**: AWS
 
 ## Installation
 
@@ -49,7 +49,7 @@ License
 This project is licensed under the MIT License. See the LICENSE
  file for details.
 
-QuickConnect — Making professional services instantly accessibl
+QuickConnect — Making professional services instantly accessible
 
 
 ```bash
